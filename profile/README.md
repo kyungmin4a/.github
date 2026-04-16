@@ -74,16 +74,16 @@
       <sub>프론트, 백엔드<br />인프라 (Nginx, MinIO, CI/CD)</sub>
     </td>
     <td align="center">
-      <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="kimsoi" /><br />
+      <img src="https://avatars.githubusercontent.com/u/175964041?v=4" width="150" height="150" style="border-radius: 50%;" alt="kimsoi" /><br />
       <a href="https://github.com/kimsoi"><b>kimsoi</b></a><br />
       <sub>Backend</sub><br />
-      <sub>백엔드 API 개발, 도메인 설계</sub>
+      <sub>백엔드</sub>
     </td>
     <td align="center">
       <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="leeys" /><br />
       <a href="https://github.com/leeys"><b>leeys</b></a><br />
       <sub>Backend</sub><br />
-      <sub>백엔드 API 개발, 도메인 설계</sub>
+      <sub>백엔드</sub>
     </td>
   </tr>
 </table>
