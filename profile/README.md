@@ -80,7 +80,7 @@
       <sub>백엔드</sub>
     </td>
     <td align="center">
-      <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="leeys" /><br />
+      <img src="https://avatars.githubusercontent.com/u/204221975?v=4" width="150" height="150" style="border-radius: 50%;" alt="leeys" /><br />
       <a href="https://github.com/leeys"><b>leeys</b></a><br />
       <sub>Backend</sub><br />
       <sub>백엔드</sub>
