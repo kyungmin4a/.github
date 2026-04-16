@@ -65,11 +65,28 @@
 
 ## 프로젝트 인원 소개
 
-| 이름 | 역할 | 담당 |
-|------|------|------|
-| **CHYJ0609** | Full-Stack | 프론트엔드 , 백엔드 , 인프라 (Nginx, MinIO, CI/CD) |
-| **kimsoi** | Backend | 백엔드  |
-| **leeys** | Backend | 백엔드  |
+<table>
+  <tr>
+    <td align="center">
+      <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="CHYJ0609" /><br />
+      <a href="https://github.com/CHYJ0609"><b>CHYJ0609</b></a><br />
+      <sub>Full-Stack</sub><br />
+      <sub>프론트, 백엔드<br />인프라 (Nginx, MinIO, CI/CD)</sub>
+    </td>
+    <td align="center">
+      <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="kimsoi" /><br />
+      <a href="https://github.com/kimsoi"><b>kimsoi</b></a><br />
+      <sub>Backend</sub><br />
+      <sub>백엔드 API 개발, 도메인 설계</sub>
+    </td>
+    <td align="center">
+      <img src="프로필이미지URL" width="150" height="150" style="border-radius: 50%;" alt="leeys" /><br />
+      <a href="https://github.com/leeys"><b>leeys</b></a><br />
+      <sub>Backend</sub><br />
+      <sub>백엔드 API 개발, 도메인 설계</sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
