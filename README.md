@@ -64,9 +64,9 @@
 
 | 이름 | 역할 | 담당 |
 |------|------|------|
-| **CHYJ0609** | Full-Stack | 프론트엔드 전체, 백엔드 개발, 인프라 구축 (Nginx, MinIO, CI/CD) |
-| **kimsoi** | Backend | 백엔드 API 개발, 도메인 설계 |
-| **leeys** | Backend | 백엔드 API 개발, 도메인 설계 |
+| **CHYJ0609** | Full-Stack | 프론트엔드, 백엔드, 인프라(Nginx, MinIO, CI/CD) |
+| **kimsoi** | Backend | 백엔드 |
+| **leeys** | Backend | 백엔드 |
 
 ---
 
