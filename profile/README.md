@@ -1,5 +1,7 @@
 # 몽글 (Mongle) - 프로젝트 소개
 
+<img width="2007" height="1365" alt="image" src="https://github.com/user-attachments/assets/20ab6ec7-6a40-4680-8c78-601454dd9fc8" />
+
 ---
 
 ## 프로젝트 소개
