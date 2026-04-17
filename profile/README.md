@@ -96,4 +96,3 @@
 | 항목 | URL |
 |------|-----|
 | **서비스** | [https://mongle.cloud](https://mongle.cloud) |
-| **이미지 CDN** | [https://img.mongle.cloud](https://img.mongle.cloud) |
