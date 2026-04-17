@@ -1,5 +1,11 @@
 # 몽글 (Mongle) - 프로젝트 소개
+---
+## 사이트
 
+| 항목 | URL |
+|------|-----|
+| **서비스** | [https://mongle.cloud](https://mongle.cloud) |
+-----
 <img width="2007" height="1365" alt="image" src="https://github.com/user-attachments/assets/20ab6ec7-6a40-4680-8c78-601454dd9fc8" />
 
 ---
@@ -91,8 +97,3 @@
 
 ---
 
-## 사이트
-
-| 항목 | URL |
-|------|-----|
-| **서비스** | [https://mongle.cloud](https://mongle.cloud) |
