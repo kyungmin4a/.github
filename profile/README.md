@@ -75,7 +75,7 @@
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/202199795?v=4" width="150" height="150" style="border-radius: 50%;" alt="CHYJ0609" /><br />
-      <a href="https://github.com/CHYJ0609"><b>CHYJ0609</b></a><br />
+      <a href="https://github.com/ChanYoung0609"><b>CHYJ0609</b></a><br />
       <sub>프론트, 백엔드<br />인프라</sub>
     </td>
     <td align="center">
