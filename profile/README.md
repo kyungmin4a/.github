@@ -86,7 +86,7 @@
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/175964041?v=4" width="150" height="150" style="border-radius: 50%;" alt="leeys" /><br />
-      <a href="https://github.com/leeys"><b>leeys</b></a><br />
+      <a href="https://github.com/lys163"><b>leeys</b></a><br />
       <sub>Backend</sub><br />
       <sub>백엔드</sub>
     </td>
