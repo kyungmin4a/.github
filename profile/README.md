@@ -43,8 +43,6 @@
 | Build Tool | Vite 6.2 |
 | Styling | Tailwind CSS 4.1 |
 | Routing | React Router DOM 7.13 |
-| Animation | Motion 12 (Framer Motion) |
-| AI | Google Generative AI |
 
 **Backend**
 
