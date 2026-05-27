@@ -6,7 +6,7 @@
 |------|-----|
 | **서비스** | [https://mongle.cloud](https://mongle.cloud) |
 -----
-<img width="2007" height="1365" alt="image" src="https://github.com/user-attachments/assets/20ab6ec7-6a40-4680-8c78-601454dd9fc8" />
+<img width="1319" height="938" alt="image" src="https://github.com/user-attachments/assets/ee6f7275-54e5-4d12-b368-433d8fdd2d2c" />
 
 ---
 
